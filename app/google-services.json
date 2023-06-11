@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30822101217",
+    "project_id": "quiz-test-a71ca",
+    "storage_bucket": "quiz-test-a71ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30822101217:android:85c20649738940c16c87a0",
+        "android_client_info": {
+          "package_name": "com.kp.quiztest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30822101217-ibpkuaboci3indhjigqbi20d35d0jjrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeAle7WdoM1knabp-1A_cctoA274eGQ4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30822101217-ibpkuaboci3indhjigqbi20d35d0jjrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
